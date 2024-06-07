@@ -1,0 +1,23 @@
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\bin\Release\POS_DB.accdb
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\bin\Release\POS_DB_1.accdb
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\bin\Release\POS - Point of Sale - Programming Champs.exe.config
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\bin\Release\POS - Point of Sale - Programming Champs.exe
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\bin\Release\POS - Point of Sale - Programming Champs.pdb
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\bin\Release\Guna.UI2.dll
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS - Point of Sale - Programming Champs.csproj.AssemblyReference.cache
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Form6.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Form5.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Form4.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Form3.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Form2.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Form1.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Form4Next.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Properties.Resources.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.ProductCard.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.CategoryCard.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS___Point_of_Sale___Programming_Champs.Billing_Item.resources
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS - Point of Sale - Programming Champs.csproj.GenerateResource.cache
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS - Point of Sale - Programming Champs.csproj.CoreCompileInputs.cache
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS - Po.79D7F867.Up2Date
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS - Point of Sale - Programming Champs.exe
+E:\!Google Drive Data 2259\!Today\POS - Point of Sale - Programming Champs\POS - Point of Sale - Programming Champs\obj\Release\POS - Point of Sale - Programming Champs.pdb
